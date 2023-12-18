@@ -20,28 +20,29 @@
 ## Web for Searching Youbike
 連接政府開放資料介接網址，提供查詢其即時資料。
 
-<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover01.png" width="50%" height="50%">
+
 
 - ASP.NET Core Web (MVC) + Web API 架構
 - 使用 Vue.js 渲染前端
 
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover01.png" width="60%" height="60%">
+
 ## Web for Searching Records
 連接資料庫，提供多種查詢方式以便搜尋病歷。可從頁面編輯、刪除資料，並將更新送回資料庫。
-
-<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover02.png" width="50%" height="50%">
-
 - ASP.NET Core Web (MVC) + Web API 架構
 - 連接 SQL 資料庫
 - 使用 Vue.js、 moment.js、 jQuery UI 渲染前端
 - 使用 axios 與後端Web API串接
 
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover02.png" width="60%" height="60%">
+
 ## WPF for Searching Customers
 連接資料庫，提供從地區查詢客戶，並呈現客戶詳細資料。
 
-<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover03.png" width="50%" height="50%">
-
 - WPF (.NET Framework)
 - 連接 SQL 資料庫
+
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover03.png" width="60%" height="60%">
 
 <!--
 **Riley-Shu/Riley-Shu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
