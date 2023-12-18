@@ -1,17 +1,27 @@
-### 關於我
-
-### 專業技能
-
+## 關於我
 
 ### 學經歷
 - 2020 - 2022 國立成功大學 研究助理
 - 2018 - 2020 國立成功大學 微生物及免疫研究所
 - 2013 - 2017 國立海洋大學 水產養殖系
 
-### 相關證照
+### 專業技能
+- C#
+- Microsoft SQL Server
+- ASP.NET Core MVC
+- WPF
 
-------
-### 作品集
+### 相關證照
+- DP900
+
+----
+
+## 作品集
+#### Web for Searching Youbike
+
+#### Web for Searching Records
+
+#### WPF for Searching Customers
 
 
 
