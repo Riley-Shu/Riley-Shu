@@ -18,13 +18,14 @@
 
 ## 作品集
 #### Web for Searching Youbike
-[![IMAGE ALT TEXT](https://github.com/Riley-Shu/Riley-Shu/blob/master/cover01.png)](https://youtu.be/KVImTvY-4Rg?feature=shared")
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover01.png" width="50%" height="50%">
+
 
 #### Web for Searching Records
-[![IMAGE ALT TEXT](https://github.com/Riley-Shu/Web-Medical_Record/blob/master/cover.png)](https://www.youtube.com/watch?v=p5MXrJJ-72w)
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover02.png" width="50%" height="50%">
 
 #### WPF for Searching Customers
-[![IMAGE ALT TEXT](https://github.com/Riley-Shu/WPF-Search_Customers/blob/master/Note/image/cover.png)](https://youtu.be/6ozU5NEcswM")
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/cover03.png" width="50%" height="50%">
 
 
 <!--
