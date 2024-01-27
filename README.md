@@ -52,7 +52,7 @@ Line聊天機器人雛形
 
 Youtube: https://youtube.com/shorts/YmPq4xsUj18
 
-<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover04.png" width="30%" height="30%">
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover04.png" width="40%" height="40%">
 
 
 
