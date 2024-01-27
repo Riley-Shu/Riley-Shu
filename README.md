@@ -23,6 +23,7 @@
 - 使用 Vue.js 渲染前端
 
 Youtube: https://youtu.be/BdnshqwMqdU
+
 <img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover01.png" width="60%" height="60%">
 
 ## Web for Searching Records
@@ -33,6 +34,7 @@ Youtube: https://youtu.be/BdnshqwMqdU
 - 使用 axios 與後端Web API串接
 
 Youtube: https://youtu.be/p5MXrJJ-72w
+
 <img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover02.png" width="60%" height="60%">
 
 ## WPF for Searching Customers
@@ -41,6 +43,7 @@ Youtube: https://youtu.be/p5MXrJJ-72w
 - 連接 SQL 資料庫
 
 Youtube: https://youtu.be/6ozU5NEcswM
+
 <img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover03.png" width="60%" height="60%">
 
 ## Web For Searching Youbike
@@ -48,7 +51,8 @@ Line聊天機器人雛形
 - API串接Line
 
 Youtube: https://youtube.com/shorts/YmPq4xsUj18
-<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover04.png" width="60%" height="60%">
+
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover04.png" width="30%" height="30%">
 
 
 
