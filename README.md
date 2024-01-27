@@ -37,16 +37,12 @@
 - 連接 SQL 資料庫
 <img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover03.png" width="60%" height="60%">
 
-# Web For Searching Youbike
-
-*TAG: #C# #API*
-
+## Web For Searching Youbike
 Line聊天機器人雛形
 - API串接Line
+Youtube: https://youtube.com/shorts/YmPq4xsUj18
+<img src="https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover04.png" width="60%" height="60%">
 
-*Youtube連結請點擊下圖*
-
-[![IMAGE ALT TEXT](https://github.com/Riley-Shu/Riley-Shu/blob/master/image/cover04.png)](https://youtube.com/shorts/YmPq4xsUj18)
 
 
 
